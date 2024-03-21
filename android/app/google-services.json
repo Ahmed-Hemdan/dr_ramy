@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "397638733442",
+    "project_id": "drramyhemy",
+    "storage_bucket": "drramyhemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397638733442:android:e762fd8472e7e1c9702e9b",
+        "android_client_info": {
+          "package_name": "com.ramy.helmyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397638733442-4iiu2fp8dt6u1m5arlum9uf6c2ih4m2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVPecF7mtuDrqEoeTmxriXsNiQE0HOLwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397638733442-4iiu2fp8dt6u1m5arlum9uf6c2ih4m2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
